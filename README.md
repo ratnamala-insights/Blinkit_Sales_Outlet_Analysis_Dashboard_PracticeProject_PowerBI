@@ -70,7 +70,8 @@ The dashboard provides a comprehensive overview of Blinkit's sales and outlet pe
 
 Key Performance Indicators (KPIs)
 
-<img width="940" height="505" alt="image" src="https://github.com/user-attachments/assets/3aa37345-4d72-46b5-92c7-09d29ca108cc" />
+<img width="527" height="235" alt="image" src="https://github.com/user-attachments/assets/36f1aa32-3583-4a09-b12c-c6466faec9bc" />
+
 
 
 The dashboard highlights key metrics including:
